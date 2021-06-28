@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @petebra
 - 👀 I’m interested in Learning all that I can.
+- 🎒 I have a bachelor's degree in Information Systems - AI & Software Engineer from FIAP.
 - 🌱 I’m currently learning Python, to upgrade my skills in AI, Machine Learning and Deep Learning!
 - 💞️ I’m looking to collaborate on ideas and codes for projects.
-- 📫 How to reach me on Instagram: @pe.cardona and by e-mail: petebra@outlook.com
+- 📫 Feel free to reach me on Instagram: @pe.cardona and by e-mail: petebra@outlook.com
